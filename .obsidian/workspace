@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "100712103e9084bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb939b159307ab7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glossary.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71a5783b4a82f946",
+    "type": "split",
+    "children": [
+      {
+        "id": "14cb1b2c6ddf6503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d4d8f5a4524c4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff66137763a6fe49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "b089b71547d7c7a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e45583ef57cd52",
+        "type": "tabs",
+        "dimension": 45.72127139364303,
+        "children": [
+          {
+            "id": "7a9504be824e0d88",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab07210f27f7bcad",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Glossary.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "28c38287cf51cdc0",
+        "type": "tabs",
+        "dimension": 54.278728606356964,
+        "children": [
+          {
+            "id": "064ce683971e635b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274
+  },
+  "active": "fb939b159307ab7a",
+  "lastOpenFiles": [
+    "Lectures/MIT 9.13 The Human Brain/1 - Introduction to Human Brain.md",
+    "Lectures/MIT 9.13 The Human Brain/2 - Neuroanatomy.md",
+    "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
+    "Glossary.md",
+    "Topics.md",
+    "Attachments/Pasted image 20220227172924.png",
+    "Attachments/Pasted image 20220227023944.png",
+    "Something.md",
+    "Pasted.md",
+    "Attachments/Pasted image 20220227033310.png"
+  ]
+}
