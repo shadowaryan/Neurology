@@ -8,41 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb939b159307ab7a",
+            "id": "1681b32728b0090a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Glossary.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ad2b70205a9ce68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14e978de20b36360",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "3da670a89029131c",
+            "id": "a08a1719dd4c2702",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -92,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "b089b71547d7c7a6",
@@ -107,8 +86,12 @@
             "id": "7a9504be824e0d88",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/MIT 9.13 The Human Brain/2 - Neuroanatomy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -117,7 +100,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,13 +122,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.9447500944073863,
+                  "close": true
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c38287cf51cdc0",
@@ -159,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +168,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "69d4d8f5a4524c4a",
+  "active": "a08a1719dd4c2702",
   "lastOpenFiles": [
-    "Lectures/MIT 9.13 The Human Brain/2 - Neuroanatomy.md",
     "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
+    "Lectures/MIT 9.13 The Human Brain/2 - Neuroanatomy.md",
     "Glossary.md",
+    "Untitled.canvas",
+    "Attachments/Pasted image 20230406015500.png",
+    "Attachments/Pasted image 20230406015238.png",
+    "Attachments/Pasted image 20230406014324.png",
+    "Attachments/Pasted image 20230406005335.png",
+    "Attachments/Pasted image 20230406005236.png",
+    "Attachments/Pasted image 20230406003923.png",
     "Lectures/MIT 9.13 The Human Brain/1 - Introduction to Human Brain.md",
     "Topics.md",
     "Attachments/Pasted image 20220227172924.png",

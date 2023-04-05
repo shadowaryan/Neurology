@@ -8,3 +8,5 @@
 	![[Pasted image 20220227172924.png|400]]
 
 	 ^191f8b
+
+- Fusiform Face Area: The fusiform face area (FFA, meaning spindle-shaped face area) is a part of the human visual system (while also activated in people blind from birth) that is specialized for facial recognition. It is located in the inferior temporal cortex (IT), in the fusiform gyrus ^d42ddf
